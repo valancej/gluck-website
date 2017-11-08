@@ -1,0 +1,24 @@
+/*
+Layout Styles
+*/
+
+body {
+    font-family: $primaryFont;
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  
+  //mixins
+  
+  $tabletMobile: 768px;
+  
+  @mixin tablet-mobile {
+    @media (max-width: #{$tabletMobile}) {
+      @content;
+    }
+  }

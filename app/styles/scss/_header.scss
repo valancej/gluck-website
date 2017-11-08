@@ -1,0 +1,36 @@
+.header-top {
+    display: flex;
+    padding: 30px 0px;
+
+    .header-top-left,
+    .header-top-right {
+        flex-basis: 50%;
+        padding: 20px 5px;
+    }
+}
+
+.header-logos-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    float: right;
+    margin: 0;
+}
+
+.header-bottom {
+    display: flex;
+
+    .header-bottom-left,
+    .header-bottom-right {
+        flex-basis: 50%;
+    }
+
+
+    .top-menu {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+    }
+
+}
