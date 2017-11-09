@@ -32,13 +32,13 @@
                     </div>
                 </div>
             </div>
-    <!-- Header bototm -->
+    <!-- Header bottom -->
 
             <div class="header-bottom">
                 <div class="header-bottom-inner row">
                     <div class="header-bottom-left col">
                         <div class="logo-wrap">
-                            <a href="#">
+                            <a href="/">
                                 <img src="images/DanGluck_logo.png" class="logo"/>
                             </a>
                         </div>
@@ -47,7 +47,7 @@
                         <nav class="menu">
                             <ul class="top-menu">
                                 <li class="top-menu-item"><a class="top-menu-link" href="#">Home</a></li>
-                                <li class="top-menu-item"><a class="top-menu-link" href="/gluck-website/shop.php">Shop</a></li>
+                                <li class="top-menu-item"><a class="top-menu-link" href="shop.php">Shop</a></li>
                             </ul>
                         </nav>
                     </div>
