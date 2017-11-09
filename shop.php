@@ -74,7 +74,7 @@
                 <div class="shop-item">
                 <a class="shop-image-link" href="#">
                         <div class="shop-item-image-wrap">
-                            <img src="images/weights-1.png" class="shop-image"/>
+                            <img src="var/www/gluck-website/images/weights-1.png" class="shop-image"/>
                         </div>
                         <h4 class="shop-item-title">Online Person Training (2 Programs)</h4>
                         <p class="shop-item-price">$70.00</p>
