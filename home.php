@@ -59,7 +59,7 @@
     <section class="main-content">
         <div class="main-content-inner container">
             <div class="hero-image-wrap">
-                <img class="hero-image" src="images/hero.jpg"/>
+                <img class="hero-image" src="images/hero.png"/>
 
             </div>
             <p class="main-content-text">Change Your Life</p>
@@ -76,15 +76,15 @@
   At DanGluckTraining we have all your needs covered.
                 </p>
                 <div class="my-story-image-wrap">
-                    <img class="my-story-image" src="images/my-story-1.jpg"/>
+                    <img class="my-story-image" src="images/my-story-1.png"/>
                 </div>
                 <div class="my-story-image-wrap">
-                    <img class="my-story-image" src="images/my-story-2.jpg"/>
+                    <img class="my-story-image" src="images/my-story-2.png"/>
                 </div>
                 <h3 class="experience-main-header">The Dan Gluck Training Experience</h3>
                 <div class="experience-section">
                     <div class="experience-image-wrap">
-                        <img class="experience-image" src="images/experience-1.jpg"/>
+                        <img class="experience-image" src="images/experience-1.png"/>
                     </div>
                     <h4 class="experience-title">Kettle Ball Squats
 Personal Training</h4>
@@ -95,7 +95,7 @@ Personal Training</h4>
                 </div>
                 <div class="experience-section">
                     <div class="experience-image-wrap">
-                        <img class="experience-image" src="images/experience-2.jpg"/>
+                        <img class="experience-image" src="images/experience-2.png"/>
                     </div>
                     <h4 class="experience-title">Sport Specific Training
 </h4>
@@ -106,7 +106,7 @@ Personal Training</h4>
                 </div>
                 <div class="experience-section">
                     <div class="experience-image-wrap">
-                        <img class="experience-image" src="images/experience-3.jpg"/>
+                        <img class="experience-image" src="images/experience-3.png"/>
                     </div>
                     <h4 class="experience-title">Athletic Training
 </h4>
@@ -117,7 +117,7 @@ Personal Training</h4>
                 </div>
                 <div class="experience-section">
                     <div class="experience-image-wrap">
-                        <img class="experience-image" src="images/experience-4.jpg"/>
+                        <img class="experience-image" src="images/experience-4.png"/>
                     </div>
                     <h4 class="experience-title">Home Gym Design
 </h4>
