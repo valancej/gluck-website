@@ -47,7 +47,7 @@
                         <nav class="menu">
                             <ul class="top-menu">
                                 <li class="top-menu-item"><a class="top-menu-link" href="/">Home</a></li>
-                                <li class="top-menu-item"><a class="top-menu-link" href="shop.php">Shop</a></li>
+                                <li class="top-menu-item"><a class="top-menu-link" href="shop">Shop</a></li>
                             </ul>
                         </nav>
                     </div>
