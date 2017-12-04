@@ -18,14 +18,14 @@
             <div class="header-top">
                 <div class="header-top-inner row">
                     <div class="header-top-left col">
-                        <a href="#" class="header-email">DanGluckTraining@gmail.com</a>
+                        <a href="mailto:danglucktraining@gmail.com" class="header-email">DanGluckTraining@gmail.com</a>
                         <span class="header-phone">(802) 881-5190</span>
                     </div>                
                     <div class="header-top-right col">
                         <div class="header-logos">
                             <ul class="header-logos-list">
-                                <li class="logo__item"><a href="https://twitter.com/GluckTraining"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li class="logo__item"><a href="https://www.facebook.com/DanGluckTraining/"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li class="logo__item"><a href="https://www.facebook.com/DanGluckTraining/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li class="logo__item"><a href="https://twitter.com/GluckTraining"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                                 <li class="logo__item"><a href="https://www.instagram.com/danglucktraining/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
@@ -115,8 +115,8 @@
             </div>
             <div class="footer-logos row">
                 <ul class="footer-logos-list">
-                    <li class="logo__item"><a href="https://twitter.com/GluckTraining"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                    <li class="logo__item"><a href="https://www.facebook.com/DanGluckTraining/"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                    <li class="logo__item"><a href="https://www.facebook.com/DanGluckTraining/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                    <li class="logo__item"><a href="https://twitter.com/GluckTraining"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                     <li class="logo__item"><a href="https://www.instagram.com/danglucktraining/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                  </ul>
             </div>

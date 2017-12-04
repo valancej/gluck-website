@@ -277,3 +277,17 @@ Shop Page
     color: #111111;
     font-weight: 300;    
 }
+
+
+
+/***** Mobile Styles *****/
+
+@media only screen and (max-width: 767px) {
+    .header-email {
+        display: none;
+    }
+
+    .header-phone {
+        display: none;
+    }
+}
