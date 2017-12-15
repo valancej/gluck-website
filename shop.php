@@ -67,8 +67,8 @@
                         <div class="shop-item-image-wrap">
                             <img src="images/weights-3.png" class="shop-image"/>
                         </div>
-                        <h4 class="shop-item-title">Online Personal Training (1 Program)</h4>
-                        <p class="shop-item-price">$40.00</p>
+                        <h4 class="shop-item-title">Online Personal Training (8 Week Program)</h4>
+                        <p class="shop-item-price">$120.00</p>
                 </a>
                 </div>
                 <div class="shop-item">
@@ -76,8 +76,8 @@
                         <div class="shop-item-image-wrap">
                             <img src="images/weights-1.png" class="shop-image"/>
                         </div>
-                        <h4 class="shop-item-title">Online Person Training (2 Programs)</h4>
-                        <p class="shop-item-price">$70.00</p>
+                        <h4 class="shop-item-title">Online Person Training (12 Week Program)</h4>
+                        <p class="shop-item-price">$150.00</p>
                 </a>
                 </div>
                 <div class="shop-item">
@@ -85,8 +85,8 @@
                         <div class="shop-item-image-wrap">
                             <img src="images/weights-2.png" class="shop-image"/>
                         </div>
-                        <h4 class="shop-item-title">Online Personal Training (3 Programs)</h4>
-                        <p class="shop-item-price">$95.00</p>
+                        <h4 class="shop-item-title">Online Personal Training (16 Week Program)</h4>
+                        <p class="shop-item-price">$200.00</p>
                 </a>
                 </div>
             </div>
@@ -96,8 +96,8 @@
                         <div class="shop-item-image-wrap">
                             <img src="images/weights-3.png" class="shop-image"/>
                         </div>
-                        <h4 class="shop-item-title">Online Coaching</h4>
-                        <p class="shop-item-price">$35.00</p>
+                        <h4 class="shop-item-title">Online Health Coaching</h4>
+                        <p class="shop-item-price">$99.00</p>
                 </a>
                 </div>
             </div>
