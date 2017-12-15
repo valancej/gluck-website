@@ -67,7 +67,8 @@
                         <div class="shop-item-image-wrap">
                             <img src="images/weights-3.png" class="shop-image"/>
                         </div>
-                        <h4 class="shop-item-title">Online Personal Training (8 Week Program)</h4>
+                        <h4 class="shop-item-title">Online Personal Training</h4>
+                        <p class="shop-item-price">(8 Week Program)</p>
                         <p class="shop-item-price">$120.00</p>
                 </a>
                 </div>
@@ -76,7 +77,8 @@
                         <div class="shop-item-image-wrap">
                             <img src="images/weights-1.png" class="shop-image"/>
                         </div>
-                        <h4 class="shop-item-title">Online Person Training (12 Week Program)</h4>
+                        <h4 class="shop-item-title">Online Person Training</h4>
+                        <p class="shop-item-price">(12 Week Program)</p>
                         <p class="shop-item-price">$150.00</p>
                 </a>
                 </div>
@@ -85,7 +87,8 @@
                         <div class="shop-item-image-wrap">
                             <img src="images/weights-2.png" class="shop-image"/>
                         </div>
-                        <h4 class="shop-item-title">Online Personal Training (16 Week Program)</h4>
+                        <h4 class="shop-item-title">Online Personal Training</h4>
+                        <p class="shop-item-price">(16 Week Program)</p>
                         <p class="shop-item-price">$200.00</p>
                 </a>
                 </div>
