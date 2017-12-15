@@ -18,8 +18,11 @@
             <div class="header-top">
                 <div class="header-top-inner row">
                     <div class="header-top-left col">
-                        <a href="mailto:danglucktraining@gmail.com" class="header-email">DanGluckTraining@gmail.com</a>
-                        <span class="header-phone">(802) 881-5190</span>
+                    <div class="logo-wrap">
+                            <a href="/">
+                                <img src="images/DanGluck_logo.png" class="logo"/>
+                            </a>
+                        </div>
                     </div>                
                     <div class="header-top-right col">
                         <div class="header-logos">
@@ -37,11 +40,7 @@
             <div class="header-bottom">
                 <div class="header-bottom-inner row">
                     <div class="header-bottom-left col">
-                        <div class="logo-wrap">
-                            <a href="/">
-                                <img src="images/DanGluck_logo.png" class="logo"/>
-                            </a>
-                        </div>
+                        
                     </div>
                     <div class="header-bottom-right col">
                         <nav class="menu">
