@@ -71,7 +71,7 @@
             <div class="my-story-inner-content">
                 <h3 class="my-story-title">My Story</h3>
                 <p class="my-story-text">
-                I use my knowledge of athletic training and personal training to coach and create a fitness program for anyone trying to reach their next goal
+                I use my knowledge of athletic training and strength and conditioning to coach and create a fitness program for anyone trying to reach their next goal
  Do you want to build lean muscle, get better at a specific sport or correct an exercise dysfunction?
   At DanGluckTraining we have all your needs covered.
                 </p>
@@ -90,7 +90,7 @@
 Personal Training</h4>
                     <p class="experience-sub-header">Ultimate flexibility with our on site, off site and online training
 </p>
-                    <p class="experience-content">Together we work on a specific lifestyle plan to obtain your goals; gaining strength, losing weight or maintaining a specific body composition or whatever is best for you. This service incorporates exercise assessment, goal setting, fitness programming, nutritional  education, safety, motivation and accountability. I create fun and exciting fitness program incorporating a variety of different exercises and fitness techniques.
+                    <p class="experience-content">Together we work on a specific lifestyle plan to achieve your goals. Gaining strength, losing weight or maintaining a specific body composition; our goal is whatever is best for you. This service incorporates exercise assessment, goal setting, fitness programming, nutritional  education, safety, motivation and accountability. We create fun and exciting fitness program incorporating a variety of different exercises and fitness techniques.
 </p>
                 </div>
                 <div class="experience-section">
@@ -99,9 +99,9 @@ Personal Training</h4>
                     </div>
                     <h4 class="experience-title">Sport Specific Training
 </h4>
-                    <p class="experience-sub-header">We create training plans specifically for your sport. We use periodization, sport-specific techniques and recovery days to perform your best when competition comes.
+                    <p class="experience-sub-header">We create training plans specifically for your sport. We use periodization, sport-specific techniques and recovery days to make sure you perform at your best when competition comes.
 </p>
-                    <p class="experience-content">Advanced testing techniques to identify areas of improvement to effectively target areas that need it most. We create individualized plans for any season of any sport. We want you to build skill and confidence to reach peak performance. We challenge the energy, muscular and nervous systems to make you a more complete athlete.
+                    <p class="experience-content">We make use of advanced testing techniques to identify areas of improvement to effectively target areas that need it most. We create individualized plans for any season of any sport. We want you to build skill and confidence to reach peak performance. We challenge the energy, muscular and nervous systems to make you a more complete athlete.
 </p>
                 </div>
                 <div class="experience-section">
@@ -112,7 +112,7 @@ Personal Training</h4>
 </h4>
                     <p class="experience-sub-header">Are you injury prone and need a preventive injury program? Do you have a chronic injury and need to know how to treat it?
 </p>
-                    <p class="experience-content">Being a certified Athletic Trainer I have the ability to evaluate, diagonals, provide treatment and rehabilitation for pain and injuries.  I use a mix of preventive injury training, modalities and proper corrective exercises to help anyone out, not just the athletes. My return to play guidelines properly prepare  anyone that needs to return to their activity. This can be that getting ready for a weekend softball game after dealing with a past shoulder injury or just getting back to going on long hikes post concussion.
+                    <p class="experience-content">Certification in Athletic Training means we have the ability to evaluate, diagonals, provide treatment and rehabilitation for pain and injuries. We use a mix of preventive injury training, modalities and proper corrective exercises to help anyone out, not just the athletes. Our return to play guidelines properly prepare  anyone that needs to return to their activity. This can be that getting ready for a weekend softball game after dealing with a past shoulder injury or just getting back to going on long hikes post concussion.
 </p>
                 </div>
                 <div class="experience-section">
@@ -126,6 +126,12 @@ Personal Training</h4>
                     <p class="experience-content">Ever wanted to build your own home gym but don't know where to start? We have a comprehensive consultation to determine which equipment would be best use in the amount of space provided  .
 </p>
                 </div>
+                <h4 class="experience-title">More about Dan</h4>
+                <p class="experience-content">Dan graduated from South Burlington High School and received his BS in Athletic Training from the College of Health and Human Services at the University of New Hampshire.  While at South Burlington High School Dan played varsity hockey and lacrosse getting many awards such as offensive player of the year in hockey and was a member of the all state first team in lacrosse.  While at UNH Dan was named to the MCLA all-conference team and received his scholar athlete award his junior and senior year. </p>
+<p class="experience-content"> Dan is a Certified Athletic Trainer licensed by the state of Vermont, CPR/AED certified, and has his CSCS(certified strength and conditioning specialist) by the National Strength and Conditioning Association. In his spare time he loves to play hockey, lacrosse, hang out with friends, try new food and play video games. </p>
+<p class="experience-content">
+Dan Gluck ATC, LAT, CSCS
+Athletic Trainer, Strength and Conditioning Coach, Personal Trainer.</p>
             </div>
         </div>
     </section>
