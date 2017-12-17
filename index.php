@@ -58,12 +58,13 @@
     </div>  
     <section class="main-content">
         <div class="main-content-inner container">
+        <p class="main-content-text">Change Your Life</p>
+            <h2 class="hero-title">Get Started Today</h2>
             <div class="hero-image-wrap">
                 <img class="hero-image" src="images/hero.png"/>
 
             </div>
-            <p class="main-content-text">Change Your Life</p>
-            <h2 class="hero-title">Get Started Today</h2>
+            
         </div>
     </section>
     <section class="my-story">
