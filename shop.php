@@ -96,7 +96,7 @@
             <div class="shop-item">
                 <a class="shop-image-link" href="#">
                         <div class="shop-item-image-wrap">
-                            <img src="images/weights-3.png" class="shop-image"/>
+                            <img src="images/online-coaching.png" class="shop-image"/>
                         </div>
                         <h4 class="shop-item-title">Online Health Coaching</h4>
                         <p class="shop-item-price">$99.00</p>
