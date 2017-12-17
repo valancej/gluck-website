@@ -76,7 +76,7 @@
                         <div class="shop-item-image-wrap">
                             <img src="images/weights-1.png" class="shop-image"/>
                         </div>
-                        <h4 class="shop-item-title">Online Person Training</h4>
+                        <h4 class="shop-item-title">Online Personal Training</h4>
                         <p class="shop-item-price">(12 Week Program)</p>
                         <p class="shop-item-price">$150.00</p>
                 </a>
