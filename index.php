@@ -72,7 +72,7 @@
             <div class="my-story-inner-content">
                 <h3 class="my-story-title">My Story</h3>
                 <p class="my-story-text">
-                I use my knowledge of athletic training and strength and conditioning to coach and create a fitness program for anyone trying to reach their next goal
+                I use my knowledge of athletic training and strength and conditioning to coach and create a fitness program for anyone trying to reach their next goal.
  Do you want to build lean muscle, get better at a specific sport or correct an exercise dysfunction?
   At DanGluckTraining we have all your needs covered.
                 </p>
