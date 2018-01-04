@@ -88,7 +88,7 @@
                         <img class="experience-image" src="images/experience-1.png"/>
                     </div>
                     <h4 class="experience-title">Personal Training</h4>
-                    <p class="experience-sub-header">Ultimate flexibility with our on site, off site and online training
+                    <p class="experience-sub-header">Ultimate flexibility with our on site, off site and online training.
 </p>
                     <p class="experience-content">Together we work on a specific lifestyle plan to achieve your goals. Gaining strength, losing weight or maintaining a specific body composition; our goal is whatever is best for you. This service incorporates exercise assessment, goal setting, fitness programming, nutritional  education, safety, motivation and accountability. We create fun and exciting fitness program incorporating a variety of different exercises and fitness techniques.
 </p>
