@@ -123,7 +123,7 @@
 </h4>
                     <p class="experience-sub-header">Workout from home and create a no excuse environment.
 </p>
-                    <p class="experience-content">Ever wanted to build your own home gym but don't know where to start? We have a comprehensive consultation to determine which equipment would be best use in the amount of space provided  .
+                    <p class="experience-content">Ever wanted to build your own home gym but don't know where to start? We have a comprehensive consultation to determine which equipment would be best use in the amount of space provided.
 </p>
                 </div>
                 <h4 class="experience-title">More about Dan</h4>
